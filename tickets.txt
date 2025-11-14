@@ -1,0 +1,46 @@
+Ticket 1: User John, Issue: Outlook crash after update, OS: Windows 11, Resolution: Restart service in safe mode, Prefs: Web version preferred.
+Ticket 2: User Sarah, Issue: Wi-Fi disconnects randomly, OS: macOS Ventura, Resolution: Reset network settings, Prefs: Home network only.
+Ticket 3: User Mike, Issue: Excel slow loading, OS: Windows 10, Resolution: Clear cache and update Office, Prefs: Large spreadsheets.
+Ticket 4: User Lisa, Issue: Teams audio lag, OS: Linux Ubuntu, Resolution: Update audio drivers, Prefs: Video calls frequent.
+Ticket 5: User Tom, Issue: VPN not connecting, OS: iOS 17, Resolution: Toggle airplane mode, Prefs: Mobile hotspot.
+Ticket 6: User Anna, Issue: OneDrive sync error, OS: Windows 11, Resolution: Re-authenticate account, Prefs: Sync photos folder.
+Ticket 7: User Bob, Issue: Browser extension conflict, OS: Chrome OS, Resolution: Disable extensions one by one, Prefs: Ad blocker always on.
+Ticket 8: User Emma, Issue: Printer offline, OS: Windows 10, Resolution: Run troubleshooter, Prefs: Wireless printing.
+Ticket 9: User David, Issue: Email not sending, OS: Android 13, Resolution: Check SMTP settings, Prefs: Gmail app.
+Ticket 10: User Grace, Issue: Battery drain fast, OS: macOS Sonoma, Resolution: Close background apps, Prefs: Battery saver mode.
+Ticket 11: User Chris, Issue: Zoom screen share lag, OS: Windows 11, Resolution: Lower resolution, Prefs: HD video.
+Ticket 12: User Nina, Issue: Password reset loop, OS: iOS 16, Resolution: Use recovery key, Prefs: Biometrics.
+Ticket 13: User Alex, Issue: Drive space full, OS: Linux Mint, Resolution: Clean temp files, Prefs: Auto-clean weekly.
+Ticket 14: User Zoe, Issue: App permissions denied, OS: Android 12, Resolution: Grant in settings, Prefs: Privacy first.
+Ticket 15: User Sam, Issue: Firewall blocking site, OS: Windows 10, Resolution: Add exception, Prefs: Strict firewall.
+Ticket 16: User Mia, Issue: Calendar sync fail, OS: macOS Ventura, Resolution: Re-sync iCloud, Prefs: Shared calendars.
+Ticket 17: User Leo, Issue: USB not recognized, OS: Ubuntu 22.04, Resolution: Update kernel, Prefs: External drives.
+Ticket 18: User Ava, Issue: Notification spam, OS: iOS 17, Resolution: Adjust focus mode, Prefs: Silent notifications.
+Ticket 19: User Kai, Issue: Software license expired, OS: Windows 11, Resolution: Renew key, Prefs: Auto-renew.
+Ticket 20: User Ella, Issue: Video call drop, OS: Chrome OS, Resolution: Stable Wi-Fi, Prefs: Ethernet cable.
+Ticket 21: User Noah, Issue: File corruption on save, OS: macOS Sonoma, Resolution: Check disk utility, Prefs: Backup first.
+Ticket 22: User Sophia, Issue: App crash on launch, OS: Android 13, Resolution: Clear cache, Prefs: Beta apps.
+Ticket 23: User Liam, Issue: Network slow, OS: Windows 10, Resolution: Flush DNS, Prefs: Wired connection.
+Ticket 24: User Olivia, Issue: Password manager sync, OS: Linux, Resolution: Re-login, Prefs: Master password.
+Ticket 25: User Ethan, Issue: Screen freeze, OS: iOS 16, Resolution: Force restart, Prefs: Low power mode.
+Ticket 26: User Isabella, Issue: Email attachment fail, OS: Windows 11, Resolution: Check quota, Prefs: Large files.
+Ticket 27: User Mason, Issue: Browser tabs not saving, OS: macOS Ventura, Resolution: Enable session restore, Prefs: Multiple tabs.
+Ticket 28: User Charlotte, Issue: Device not charging, OS: Android 12, Resolution: Clean port, Prefs: Wireless charger.
+Ticket 29: User Logan, Issue: App update stuck, OS: Ubuntu, Resolution: Clear download cache, Prefs: Stable repo.
+Ticket 30: User Amelia, Issue: Sound not working, OS: Windows 10, Resolution: Update drivers, Prefs: External speakers.
+Ticket 31: User Jackson, Issue: File sharing blocked, OS: iOS 17, Resolution: Allow in privacy, Prefs: AirDrop.
+Ticket 32: User Harper, Issue: Calendar event duplicate, OS: macOS Sonoma, Resolution: Merge events, Prefs: Shared calendar.
+Ticket 33: User Aiden, Issue: VPN speed slow, OS: Linux Mint, Resolution: Switch server, Prefs: EU location.
+Ticket 34: User Scarlett, Issue: Notification delay, OS: Android 13, Resolution: Disable battery optimization, Prefs: Do Not Disturb.
+Ticket 35: User Benjamin, Issue: Drive mapping fail, OS: Windows 11, Resolution: Re-map network, Prefs: NAS storage.
+Ticket 36: User Violet, Issue: App permission reset, OS: Chrome OS, Resolution: Grant again, Prefs: Guest mode.
+Ticket 37: User Lucas, Issue: Battery percentage jump, OS: iOS 16, Resolution: Calibrate battery, Prefs: Full charge.
+Ticket 38: User Luna, Issue: Email signature missing, OS: macOS Ventura, Resolution: Re-add in settings, Prefs: Custom signature.
+Ticket 39: User Henry, Issue: Wi-Fi captive portal, OS: Ubuntu 22.04, Resolution: Open browser, Prefs: Public Wi-Fi.
+Ticket 40: User Aurora, Issue: File encryption error, OS: Windows 10, Resolution: Decrypt first, Prefs: EFS enabled.
+Ticket 41: User Sebastian, Issue: Zoom background not loading, OS: Android 12, Resolution: Update Zoom, Prefs: Virtual backgrounds.
+Ticket 42: User Nova, Issue: Calendar reminder silent, OS: iOS 17, Resolution: Check sound settings, Prefs: Haptic alerts.
+Ticket 43: User Theodore, Issue: Network adapter disabled, OS: Linux, Resolution: Enable in ifconfig, Prefs: Ethernet.
+Ticket 44: User Stella, Issue: App battery drain, OS: macOS Sonoma, Resolution: Monitor in activity, Prefs: Low power.
+Ticket 45: User Ezra, Issue: Password autofill fail, OS: Windows 11, Resolution: Clear credentials, Prefs: Edge browser.
+Ticket 46: User Hazel, Issue: Drive letter conflict, OS: Windows 10, Resolution: Change letter
